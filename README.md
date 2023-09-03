@@ -11,3 +11,6 @@ What are the steps to creating a file on your local
 *How do you move it to localRemote are?
   
 *How do you publish your code to the team Remotely?
+
+
+Add fidel a collaborator to this repo - 	Dboyfrag
